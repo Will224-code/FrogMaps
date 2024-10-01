@@ -1,4 +1,6 @@
 # Datos importantes en FrogMaps
+![Logo_Oficial](https://github.com/user-attachments/assets/ea9d16d0-6444-45bf-9c5d-1f9f8e1aebdf)
+
 
 ## TIPOS DE USUSARIO EN LA QUE VA DIRIGIDO:
 
@@ -113,5 +115,86 @@ El sistema debe estar disponible el 99.9% del tiempo.
 
 Aunque el sistema debe poder crecer, en la versión inicial puedes limitarte a 
 un número específico de usuarios, y mejorar esto más adelante.
+
+## Descripción del Proceso
+
+El proceso de desarrollo del software FrogMaps se basa en la metodología Scrum, 
+que permite una gestión ágil y eficiente del proyecto. Cada sprint tiene una duración de unas semana, 
+donde se definen las tareas específicas y se realizan entregas parciales del producto. Este enfoque permite 
+adaptarse rápidamente a los cambios y mejorar continuamente el software basado en la retroalimentación del
+equipo y de los usuarios finales. 
+
+
+### Métrica de Contribución Individua
+
+Cada miembro del equipo tiene responsabilidades específicas en el desarrollo del proyecto. 
+Las métricas de contribución se basan en el cumplimiento de tareas asignadas, la calidad 
+del trabajo realizado y la capacidad de colaborar en equipo. Se evalúa el rendimiento mediante 
+el seguimiento del avance en los sprints y 
+se fomenta la retroalimentación continua para el crecimiento profesional de cada integrante.
+
+### Metodologia a Usar:
+#### Metodología scrum:
+Beneficios de usar Scrum en un mapa web:
+Flexibilidad: Rápida adaptación a los requisitos cambiantes.
+Transparencia: Visibilidad del progreso del proyecto para todos los involucrados.
+Calidad: Entrega continua de funciones de alta calidad.
+Colaboración: mejora la comunicación y la colaboración entre los miembros del equipo.
+
+#### Equipo FrogMap :
+Kevin Canul: Tester y encargado de la documentación
+
+William Camal: Desarrollador principal
+
+Rubén: Control de calidad
+
+Edwin: Area administrativa
+
+Edgar:  Especialista en UX/UI 
+
+#### Roles de Srum:
+Product Owner: 
+
+William Caamal
+
+Scrum Master:
+
+Kevin Canul
+
+Development Team:
+
+Edgar.
+
+Edwin.
+
+Rubén.
+
+## DIAGRAMA DE CASO DE USO
+![Diagrama De casos de usos](https://github.com/user-attachments/assets/b3460ff0-e52a-4b64-9a8b-3d0951b2d411)
+
+
+## COMO SABER SI ES BUENA OPCION
+
+Es una excelente opcion, ya que para poder realizar todo este proyecto, tuvimos que realizar varias encuestas
+
+En este caso utilizamos encuestas al público en la que está dirigido nuestro proyecto, para
+
+poder saber la opinión de las necesidades de búsqueda de lugares para los estudiantes que
+
+son foráneos.
+
+Además de saber sus opiniones y que les gusta o que no les gusta.
+
+
+### Comentarios sobre la idea de Frog Maps:
+![comentarios](https://github.com/user-attachments/assets/46f23b5b-6bbb-42cf-9e5f-92b30bdf5782)
+
+### En cuentas de Frog Maps:
+![Encuesta_3](https://github.com/user-attachments/assets/4185e8cb-65f9-4932-a3c6-003140612dd0)
+![Encuesta_2](https://github.com/user-attachments/assets/fcbe669d-23db-4426-9f51-67274ffd7528)
+![Encuesta_1](https://github.com/user-attachments/assets/9e57471d-33a3-451b-b6ae-9194476cf7f0)
+
+
+
 
 
