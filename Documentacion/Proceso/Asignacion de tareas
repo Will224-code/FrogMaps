@@ -1,4 +1,4 @@
-     Metodologia a Usar:
+Metodologia a Usar:
 Metodología scrum:
 Beneficios de usar Scrum en un mapa web:
 Flexibilidad: Rápida adaptación a los requisitos cambiantes.
@@ -6,11 +6,17 @@ Transparencia: Visibilidad del progreso del proyecto para todos los involucrados
 Calidad: Entrega continua de funciones de alta calidad.
 Colaboración: mejora la comunicación y la colaboración entre los miembros del equipo.
 
-     Tareas designadas en roles de Srum:
-Kevin Canul: Developer 
-William Camal: Developer
-Rubén: Developer
-Edwin: Product owner
-Edgar: Tester 
+Equipo FrogMap :
+Kevin Canul: Tester y encargado de la documentación 
+William Camal: Desarrollador principal
+Rubén: Control de calidad
+Edwin: Area administrativa
+Edgar:  Especialista en UX/UI 
 
-
+Roles de Srum:
+Product Owner: William Caamal
+Scrum Master: Kevin Canul
+Development Team:
+Edgar.
+Edwin.
+Rubén.
