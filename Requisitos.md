@@ -1,5 +1,5 @@
 # Frog Maps - Requisitos Funcionales Y No Funcionales
-#### Requisitos de la primera entrega:
+#### *Requisitos de la primera entrega:*
 ## Requisitos Requisitos Funcionales 
 
 ### Rutas: 
@@ -33,11 +33,12 @@ La plataforma debe de ser capaz de poder soportar una gran cantidad de usuarios 
 ### Optimización:
 Mejorar la optimización y disponibilidad para la accesibilidad y disponibilidad de cualquier navegador, incluyendo el dispositivo.
 ### Disponibilidad:
-El sistema debe estar disponible el 99.9% del tiempo. *Optimización y disponibilidad para la accesibilidad y disponibilidad de cualquier navegador.
+El sistema debe estar disponible el 99.9% del tiempo (*Optimización y disponibilidad para la accesibilidad y disponibilidad de cualquier navegador*).
 
 
 
-### Requisitos de la Segunda entrega:
+### *Requisitos de la Segunda entrega:*
+
 ## Requisitos Funcionales
 
 ### Encargos:
@@ -57,7 +58,6 @@ Esta funcionalidad esta con la finalidad de poder enviar una queja a aquel negoc
 
 
 ## Requisitos NO Funcionales
-
 ### Conexión a Base de datos Comentarios :
 Con la finalidad de tener un control y almacenamiento de los comentarios y calificaciones que ponen los usuarios a los negocios.
 ### Conexión a Base de datos Quejas :
