@@ -1,4 +1,5 @@
-Métrica de Contribución Individua
+
+# Métrica de Contribución Individua
 
 Cada miembro del equipo tiene responsabilidades específicas en el desarrollo del proyecto. 
 Las métricas de contribución se basan en el cumplimiento de tareas asignadas, la calidad 
