@@ -1,9 +1,11 @@
-# Artefactos
+# Evolucion de Artefactos
 
 ## Encuesta
 Con mi equipo realizamos diversas en cuentas, con el objetivo de poder recopilar más información, y poder mejorar nuestro proyecto, en este caso utilizamos la plataforma Forms.
 
 En los resultados de dichas en cuentas recibimos diferentes respuestas interesantes, la cual nos dio una visión de lo que se le puede mejorar a la página web FrogMaps, en este caso estas son unas de las preguntas, que nos dio mucha información, sobre lo que la gente le interesa, y de lo que le podemos agregar o cambiar.
+
+Gracias a estas encuentas podimos recabar informacion importante.
 
 
 ![Imagen de WhatsApp 2024-10-31 a las 17 41 19_b4cd860d](https://github.com/user-attachments/assets/988ec6d2-0369-4d36-b1bb-cb734000de51)
