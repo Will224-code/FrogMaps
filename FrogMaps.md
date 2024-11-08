@@ -6,11 +6,11 @@
 
 ### Usuarios primarios:
 
-Estudiantes pertenecientes a cualquier licenciatura y/o facultad integrada a la UMT
+Estudiantes pertenecientes a cualquier licenciatura y/o facultad integrada a la UMT.
 
 ### Secundarios:
 
-Estudiantes de cualquier nivel académico y docentes propios de la UMT-UADY 
+Estudiantes de cualquier nivel académico y docentes propios de la UMT-UADY.
 
   
 ## OBJETIVOS:
