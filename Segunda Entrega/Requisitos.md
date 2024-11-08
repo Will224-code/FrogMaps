@@ -1,5 +1,7 @@
 # Frog Maps - Requisitos Funcionales Y No Funcionales
 
+Gracias a las encuestas realizadas, podemos implementar estos requisitos, las cuales ayudaran a avanzar y complementar el desarrollo de la página web Frog Maps.
+
 ### *Requisitos de la Segunda entrega:*
 
 ## Requisitos Funcionales
