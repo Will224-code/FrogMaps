@@ -40,8 +40,20 @@ Y el segundo es cuando este dentro de ese local.
 
 ![Imagen de WhatsApp 2024-11-08 a las 18 06 33_ff474440](https://github.com/user-attachments/assets/142ecbcc-acc4-4e1f-90e8-ece4f9eb6d3b)
 
+### Vista cuando este viendo un Negocio
+Este panel  es cuando este viendo algún negocio, y serán las opciones y datos de aquel local que saldrán.
 
-FAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALTA
+![Imagen de WhatsApp 2024-11-08 a las 18 56 22_9a02f93f](https://github.com/user-attachments/assets/2e9d82ea-c205-4ac3-b796-b517506666ae)
+
+
+
+### Vista Buscador
+En este caso el buscador estará optimizado para reconocer locales y productos, en caso de que sea un producto el mapa se quitara y aparecerá un panel donde salgan los productos.
+
+
+asdfgchjklñkjhgbvfcdxs 
+
+
 
 ### vista del Usuario Negocio
 Este panel principal es como lo vera el usuario
