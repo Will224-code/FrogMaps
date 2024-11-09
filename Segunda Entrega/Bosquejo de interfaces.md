@@ -31,7 +31,7 @@ Esta interfaz es exclusiva, para aquellas personas registradas como negocio, en 
 
 ![Imagen de WhatsApp 2024-11-08 a las 18 06 32_f1fc59fa](https://github.com/user-attachments/assets/6956de2e-518b-4bf7-9726-7c1dd77b9bbf)
 
-## Panel principal
+## Interfaz Principal
 
 ### Vista del Usuario cliente
 Este panel principal es como lo vera el usuario, en este caso son 2, la primera es cuanto no tiene ningún local seleccionado.
