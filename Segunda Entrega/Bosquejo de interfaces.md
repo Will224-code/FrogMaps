@@ -47,19 +47,21 @@ Este panel  es cuando este viendo algún negocio, y serán las opciones y datos 
 
 
 
-### Vista Buscador
-En este caso el buscador estará optimizado para reconocer locales y productos, en caso de que sea un producto el mapa se quitara y aparecerá un panel donde salgan los productos.
+### Vista Compra
+En este caso cuando el usuario, quiera pedir algo, aparecera esta interfaz.
+![Imagen de WhatsApp 2024-11-08 a las 20 51 41_0a410174](https://github.com/user-attachments/assets/45945940-36b0-4299-af60-68994e623993)
 
-
-asdfgchjklñkjhgbvfcdxs 
 
 ## Interfaz Principal del Negocio
 
-## vista del Usuario Negocio
+### vista del Usuario Negocio
 Este panel principal es como lo vera el usuario
+![Imagen de WhatsApp 2024-11-08 a las 20 51 41_2ab14337](https://github.com/user-attachments/assets/515677eb-79a1-461a-9282-33303f09b7c6)
+
 
 ### Alta, Baja y Actualización
 Estos paneles son cuando el usuario Negocio, trate de dar de alta, o de baja, o incluso actualizar algún producto.
+![Imagen de WhatsApp 2024-11-08 a las 20 51 40_5c5fe69c](https://github.com/user-attachments/assets/73c2f906-a17c-4e3c-a860-a2354c9866a1)
 
 
 ### Datos del local
