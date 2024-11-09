@@ -21,7 +21,7 @@ Esta opción de ser 2 botones es para aquellas personas que quieran emprender, o
 
 
 
-### Ingresar datos Usuario y Negocio
+## Ingresar datos Usuario y Negocio
 Un simple bosquejo de cómo será el panel al momento de crear cuenta, este diseño se utilizara para los 2 botones, lo único que cambiara, es que los datos se almacenara en diferentes secciones de la base de datos.
 
 ![Imagen de WhatsApp 2024-11-08 a las 18 06 33_7e52ea9b](https://github.com/user-attachments/assets/5c6bf3fd-fe92-473c-b286-90e9e9f98146)
@@ -31,7 +31,7 @@ Esta interfaz es exclusiva, para aquellas personas registradas como negocio, en 
 
 ![Imagen de WhatsApp 2024-11-08 a las 18 06 32_f1fc59fa](https://github.com/user-attachments/assets/6956de2e-518b-4bf7-9726-7c1dd77b9bbf)
 
-## Interfaz Principal
+## Interfaz Principal del cliente
 
 ### Vista del Usuario cliente
 Este panel principal es como lo vera el usuario, en este caso son 2, la primera es cuanto no tiene ningún local seleccionado.
@@ -40,7 +40,7 @@ Y el segundo es cuando este dentro de ese local.
 
 ![Imagen de WhatsApp 2024-11-08 a las 18 06 33_ff474440](https://github.com/user-attachments/assets/142ecbcc-acc4-4e1f-90e8-ece4f9eb6d3b)
 
-### Vista cuando este viendo un Negocio
+### Vista del usuario cuando este viendo un Negocio
 Este panel  es cuando este viendo algún negocio, y serán las opciones y datos de aquel local que saldrán.
 
 ![Imagen de WhatsApp 2024-11-08 a las 18 56 22_9a02f93f](https://github.com/user-attachments/assets/2e9d82ea-c205-4ac3-b796-b517506666ae)
@@ -53,16 +53,16 @@ En este caso el buscador estará optimizado para reconocer locales y productos, 
 
 asdfgchjklñkjhgbvfcdxs 
 
+## Interfaz Principal del Negocio
 
-
-### vista del Usuario Negocio
+## vista del Usuario Negocio
 Este panel principal es como lo vera el usuario
 
-#### Alta, Baja y Actualización
+### Alta, Baja y Actualización
 Estos paneles son cuando el usuario Negocio, trate de dar de alta, o de baja, o incluso actualizar algún producto.
 
 
-#### Datos del local
+### Datos del local
 
 Este panel sera para actualizar los datos, como el numero, direccion, horarios, etc.
 ![Imagen de WhatsApp 2024-11-08 a las 18 06 32_0a6a6b8b](https://github.com/user-attachments/assets/e5e702ba-da56-47ef-bce0-f1db73a5fde1)
