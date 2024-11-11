@@ -68,7 +68,7 @@ Asignación de las áreas que será responsable cada uno de los integrantes del 
 ## Cronograma de actividades
 
 | Integrante Responsable| Area |Duracion en dias|Duracion en Fechas|
-|---|---|---|---|---|
+|---|---|---|---|
 | Kevin jesus Canul Coba | Diseño|8|29 oct hasta el 5 de nov|
 | Edwin Roberto Cauich Aguilar| Desarrollo del mapa interactivo |15|6 de nov hasta 21 de nov|
 | Ruben Alejandro Sancen Pech| Desarrollo del Sistema de Registro |16|6 de nov hasta 22 de nov|
@@ -79,7 +79,7 @@ Asignación de las áreas que será responsable cada uno de los integrantes del 
 | William enrique Camal Camal | Desarrollo de responsividad  |31|23 de nov hasta 22 de dic|
 | Ruben Alejandro Sancen Pech | Pruebas |4|23 de dic hasta 27 de dic|
 | Kevin jesus Canul Coba | Despliegue |4|28 de dic hasta 1 de Enero|
-=======
+
 ![Imagen de WhatsApp 2024-11-11 a las 14 10 36_a721f338](https://github.com/user-attachments/assets/bc34326c-a961-4c1a-8f5e-eabfad6c8854)
 
->>>>>>> b55992ca2aa07d09cbab49397b0ae0c61105b1cb
+
