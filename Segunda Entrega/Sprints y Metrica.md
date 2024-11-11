@@ -67,15 +67,20 @@ Asignación de las áreas que será responsable cada uno de los integrantes del 
 
 ## Cronograma de actividades
 
-| Integrante Responsable| Area |Completado |Duracion en dias|Duracion en Fechas|
+<<<<<<< HEAD
+| Integrante Responsable| Area |Duracion en dias|Duracion en Fechas|
 |---|---|---|---|---|
-| Kevin jesus Canul Coba | Diseño |x|8|29 oct hasta el 5 de nov|
-| Edwin Roberto Cauich Aguilar| Desarrollo del mapa interactivo |x|15|6 de nov hasta 21 de nov|
-| Ruben Alejandro Sancen Pech| Desarrollo del Sistema de Registro |x|16|6 de nov hasta 22 de nov|
-| Edgar Emir Marín Uc | Desarrollo del panel para negocios registrados |x|15|10 de nov hasta 25 de nov|
-| Edwin Roberto Cauich Aguilar | Desarrollo de funcionalidades de busqueda|x|13|17 de nov hasta 30 de nov|
-| Edgar Emir Marín Uc | Desarrollo de funcionalidades adicionales |x|16|21 de nov hasta 5 de dic|
-| William enrique Camal Camal | Desarrollo del backend |x|22|18 de nov hasta 18 de dic|
-| William enrique Camal Camal | Desarrollo de responsividad  |x|31|23 de nov hasta 22 de dic|
-| Ruben Alejandro Sancen Pech | Pruebas |x|4|23 de dic hasta 27 de dic|
-| Kevin jesus Canul Coba | Despliegue |x|4|28 de dic hasta 1 de Enero|
+| Kevin jesus Canul Coba | Diseño|8|29 oct hasta el 5 de nov|
+| Edwin Roberto Cauich Aguilar| Desarrollo del mapa interactivo |15|6 de nov hasta 21 de nov|
+| Ruben Alejandro Sancen Pech| Desarrollo del Sistema de Registro |16|6 de nov hasta 22 de nov|
+| Edgar Emir Marín Uc | Desarrollo del panel para negocios registrados |15|10 de nov hasta 25 de nov|
+| Edwin Roberto Cauich Aguilar | Desarrollo de funcionalidades de busqueda|13|17 de nov hasta 30 de nov|
+| Edgar Emir Marín Uc | Desarrollo de funcionalidades adicionales |16|21 de nov hasta 5 de dic|
+| William enrique Camal Camal | Desarrollo del backend |22|18 de nov hasta 18 de dic|
+| William enrique Camal Camal | Desarrollo de responsividad  |31|23 de nov hasta 22 de dic|
+| Ruben Alejandro Sancen Pech | Pruebas |4|23 de dic hasta 27 de dic|
+| Kevin jesus Canul Coba | Despliegue |4|28 de dic hasta 1 de Enero|
+=======
+![Imagen de WhatsApp 2024-11-11 a las 14 10 36_a721f338](https://github.com/user-attachments/assets/bc34326c-a961-4c1a-8f5e-eabfad6c8854)
+
+>>>>>>> b55992ca2aa07d09cbab49397b0ae0c61105b1cb
