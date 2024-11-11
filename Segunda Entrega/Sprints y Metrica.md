@@ -3,7 +3,7 @@
 
 Asignación de las áreas que será responsable cada uno de los integrantes del equipo, con el fin de tener un orden y tener una mejor organización.
 
-## Asigancion de tareas
+## Asignacion de tareas
 
 | Integrante Responsable| Area |
 |---|---|
