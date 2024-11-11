@@ -60,7 +60,7 @@ Asignación de las áreas que será responsable cada uno de los integrantes del 
 * Pruebas de la usabilidad
 * Pruebas del rendimiento y carga de la pagina
 * Corrección de errores y optimización de la pagina
-11.	Despliegue
+10.	Despliegue
 * Preparación del entorno de producción
 * espliegue de la página web
 * Verificación del despliegue
