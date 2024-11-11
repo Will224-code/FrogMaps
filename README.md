@@ -187,15 +187,15 @@ Además de saber sus opiniones y que les gusta o que no les gusta.
 
 ## Asignacion de tareas
 
-| Integrante Responsable| Area |Duracion |
+| Integrante Responsable| Area |Realizado |
 |---|---|---|
-| Kevin jesus Canul Coba | Diseño | | 
-| Edwin Roberto Cauich Aguilar| Desarrollo del mapa interactivo || 
-| Ruben Alejandro Sancen Pech| Desarrollo del Sistema de Registro | | 
-| Edgar Emir Marín Uc | Desarrollo del panel para negocios registrados | | 
-| Edwin Roberto Cauich Aguilar | Desarrollo de funcionalidades de busqueda| | 
-| Edgar Emir Marín Uc | Desarrollo de funcionalidades adicionales | | 
-| William enrique Camal Camal | Desarrollo del backend | | 
-| William enrique Camal Camal | Desarrollo de responsividad  || 
-| Ruben Alejandro Sancen Pech | Pruebas | | 
-| Kevin jesus Canul Coba | Despliegue || 
+| Kevin jesus Canul Coba | Diseño |✅| 
+| Edwin Roberto Cauich Aguilar| Desarrollo del mapa interactivo |❎| 
+| Ruben Alejandro Sancen Pech| Desarrollo del Sistema de Registro |❎ | 
+| Edgar Emir Marín Uc | Desarrollo del panel para negocios registrados | ❎| 
+| Edwin Roberto Cauich Aguilar | Desarrollo de funcionalidades de busqueda|❎ | 
+| Edgar Emir Marín Uc | Desarrollo de funcionalidades adicionales |❎ | 
+| William enrique Camal Camal | Desarrollo del backend |❎ | 
+| William enrique Camal Camal | Desarrollo de responsividad  |❎| 
+| Ruben Alejandro Sancen Pech | Pruebas |❎| 
+| Kevin jesus Canul Coba | Despliegue |❎| 
