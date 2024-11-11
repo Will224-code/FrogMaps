@@ -66,3 +66,6 @@ Asignación de las áreas que será responsable cada uno de los integrantes del 
 * Verificación del despliegue
 
 ## Cronograma de actividades
+
+![Imagen de WhatsApp 2024-11-11 a las 14 10 36_a721f338](https://github.com/user-attachments/assets/bc34326c-a961-4c1a-8f5e-eabfad6c8854)
+
