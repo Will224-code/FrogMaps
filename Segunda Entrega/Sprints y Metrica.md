@@ -67,7 +67,6 @@ Asignación de las áreas que será responsable cada uno de los integrantes del 
 
 ## Cronograma de actividades
 
-<<<<<<< HEAD
 | Integrante Responsable| Area |Duracion en dias|Duracion en Fechas|
 |---|---|---|---|---|
 | Kevin jesus Canul Coba | Diseño|8|29 oct hasta el 5 de nov|
