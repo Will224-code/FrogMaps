@@ -18,7 +18,7 @@ Asignación de las áreas que será responsable cada uno de los integrantes del 
 | Ruben Alejandro Sancen Pech | Pruebas | | 
 | Kevin jesus Canul Coba | Despliegue |f| 
 
-## Tareas de cada Area
+### Tareas de cada Area
 1.	Diseño
 * Creación de wireframes y mockups
 * Diseño de la interfaz de usuario (UI)
