@@ -170,7 +170,6 @@ Edwin.
 Rubén.
 
 ## DIAGRAMA DE CASO DE USO
-![Diagrama De casos de usos](https://github.com/user-attachments/assets/b3460ff0-e52a-4b64-9a8b-3d0951b2d411)
 
 
 ## COMO SABER SI ES BUENA OPCION
@@ -186,10 +185,17 @@ son foráneos.
 Además de saber sus opiniones y que les gusta o que no les gusta.
 
 
-### Comentarios sobre la idea de Frog Maps:
-![comentarios](https://github.com/user-attachments/assets/46f23b5b-6bbb-42cf-9e5f-92b30bdf5782)
+## Asignacion de tareas
 
-### En cuentas de Frog Maps:
-![Encuesta_3](https://github.com/user-attachments/assets/4185e8cb-65f9-4932-a3c6-003140612dd0)
-![Encuesta_2](https://github.com/user-attachments/assets/fcbe669d-23db-4426-9f51-67274ffd7528)
-![Encuesta_1](https://github.com/user-attachments/assets/9e57471d-33a3-451b-b6ae-9194476cf7f0)
+| Integrante Responsable| Area |Duracion |
+|---|---|---|
+| Kevin jesus Canul Coba | Diseño | | 
+| Edwin Roberto Cauich Aguilar| Desarrollo del mapa interactivo || 
+| Ruben Alejandro Sancen Pech| Desarrollo del Sistema de Registro | | 
+| Edgar Emir Marín Uc | Desarrollo del panel para negocios registrados | | 
+| Edwin Roberto Cauich Aguilar | Desarrollo de funcionalidades de busqueda| | 
+| Edgar Emir Marín Uc | Desarrollo de funcionalidades adicionales | | 
+| William enrique Camal Camal | Desarrollo del backend | | 
+| William enrique Camal Camal | Desarrollo de responsividad  || 
+| Ruben Alejandro Sancen Pech | Pruebas | | 
+| Kevin jesus Canul Coba | Despliegue || 
