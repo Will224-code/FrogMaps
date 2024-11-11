@@ -139,7 +139,7 @@ Beneficios de usar Scrum en un mapa web:
 Flexibilidad: Rápida adaptación a los requisitos cambiantes.
 Transparencia: Visibilidad del progreso del proyecto para todos los involucrados.
 Calidad: Entrega continua de funciones de alta calidad.
-Colaboración: mejora la comunicación y la colaboración entre los miembros del equipo.
+Colaboración: mejora la comunicación y la colaboración entre los miembros del equipo.https://github.com/Will224-code/FrogMaps/blob/main/README.md
 
 #### Equipo FrogMap :
 Kevin Canul: Tester y encargado de la documentación
@@ -170,6 +170,7 @@ Edwin.
 Rubén.
 
 ## DIAGRAMA DE CASO DE USO
+![Imagen de WhatsApp 2024-11-11 a las 09 24 31_13ae973c](https://github.com/user-attachments/assets/ae7ac43d-e6db-45a5-9a36-2ce5d355d4bf)
 
 
 ## COMO SABER SI ES BUENA OPCION
