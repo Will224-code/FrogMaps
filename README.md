@@ -139,7 +139,7 @@ Beneficios de usar Scrum en un mapa web:
 Flexibilidad: Rápida adaptación a los requisitos cambiantes.
 Transparencia: Visibilidad del progreso del proyecto para todos los involucrados.
 Calidad: Entrega continua de funciones de alta calidad.
-Colaboración: mejora la comunicación y la colaboración entre los miembros del equipo.
+Colaboración: mejora la comunicación y la colaboración entre los miembros del equipo.https://github.com/Will224-code/FrogMaps/blob/main/README.md
 
 #### Equipo FrogMap :
 Kevin Canul: Tester y encargado de la documentación
@@ -170,6 +170,7 @@ Edwin.
 Rubén.
 
 ## DIAGRAMA DE CASO DE USO
+![Imagen de WhatsApp 2024-11-11 a las 09 24 31_13ae973c](https://github.com/user-attachments/assets/ae7ac43d-e6db-45a5-9a36-2ce5d355d4bf)
 
 
 ## COMO SABER SI ES BUENA OPCION
@@ -189,13 +190,13 @@ Además de saber sus opiniones y que les gusta o que no les gusta.
 
 | Integrante Responsable| Area |Realizado |
 |---|---|---|
-| Kevin jesus Canul Coba | Diseño |✅| 
-| Edwin Roberto Cauich Aguilar| Desarrollo del mapa interactivo |❎| 
-| Ruben Alejandro Sancen Pech| Desarrollo del Sistema de Registro |❎ | 
-| Edgar Emir Marín Uc | Desarrollo del panel para negocios registrados | ❎| 
-| Edwin Roberto Cauich Aguilar | Desarrollo de funcionalidades de busqueda|❎ | 
-| Edgar Emir Marín Uc | Desarrollo de funcionalidades adicionales |❎ | 
-| William enrique Camal Camal | Desarrollo del backend |❎ | 
-| William enrique Camal Camal | Desarrollo de responsividad  |❎| 
-| Ruben Alejandro Sancen Pech | Pruebas |❎| 
-| Kevin jesus Canul Coba | Despliegue |❎| 
+| Kevin jesus Canul Coba | Diseño || 
+| Edwin Roberto Cauich Aguilar| Desarrollo del mapa interactivo |x| 
+| Ruben Alejandro Sancen Pech| Desarrollo del Sistema de Registro |x | 
+| Edgar Emir Marín Uc | Desarrollo del panel para negocios registrados |x | 
+| Edwin Roberto Cauich Aguilar | Desarrollo de funcionalidades de busqueda|x | 
+| Edgar Emir Marín Uc | Desarrollo de funcionalidades adicionales |x | 
+| William enrique Camal Camal | Desarrollo del backend |x | 
+| William enrique Camal Camal | Desarrollo de responsividad  |x| 
+| Ruben Alejandro Sancen Pech | Pruebas |x| 
+| Kevin jesus Canul Coba | Despliegue |x| 
