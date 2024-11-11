@@ -16,7 +16,7 @@ Asignación de las áreas que será responsable cada uno de los integrantes del 
 | William enrique Camal Camal | Desarrollo del backend | | 
 | William enrique Camal Camal | Desarrollo de responsividad  || 
 | Ruben Alejandro Sancen Pech | Pruebas | | 
-| Kevin jesus Canul Coba | Despliegue || 
+| Kevin jesus Canul Coba | Despliegue |f| 
 
 ## Tareas de cada Area
 1.	Diseño
