@@ -62,25 +62,41 @@ de interés que se adapten a tu presupuesto.
 
 ### Requisitos Funcionales:
 
-#### Rutas: La muestra de rutas cercanas al destino del usuario.
+#### Rutas: 
 
-#### Información detallada: 
-Mostrar la información de los puntos 
-de interés, en este caso, que ofrece, horario, si cuenta 
-con servicio a domicilio, dirección, número telefónico, entre otros. 
+Esta Funcionalidad tiene como fin de mostrarle al usuario cual es la ruta más cercana a su destino, esto con el objetivo de ahorrarle tiempo al usuario de ir al negocio de interés.
 
-#### Busqueda:
-Opción de búsqueda del lugar de interés del estudiante (usuario).
+#### Información detallada:
 
-#### Comentarios: 
-Opción para poder poner comentarios de los puntos de interés.
+Esta Funcionalidad tiene la función de mostrar los datos importantes del local.
+Con el objetivo que el usuario este informado con más detalle (Productos, horarios, si cuenta 
+con servicio a domicilio, dirección, número telefónico, sucursales, ofertas).
+
+#### Búsqueda: 
+
+Esta funcionalidad tiene con el objetivo de ser el buscador de los puntos de interés de nuestro cliente, si son tiendas de conveniencia, si son supermercados, si son papelerías, entre otras.
+
+#### Comentarios:
+La funcionalidad de los 
+comentarios se implementará, para que los usuarios puedan dar sus opiniones del local (siendo este comentario bisible para todos los usuarios) si les gusto o no el servicio, que le pareció, si el producto es bueno o interesante, entre otros comentarios que pueden ofrecer con tal de que otros usuarios sepan las experiencias y los negocios puedan darse una retroalimentación.
+
+#### Modo monetario:
+
+Funcionalidad *importante*, esta funcionalidad se centra con el objetivo de buscar el producto de interés y saldrá una lista de todos los negocios que disponen de aquel producto, esta lista estará ordenada del menor hasta el mayor precio. Dándote una amplia variedad de opciones, dándote la oportunidad de decidir cual negocio te conviene comprar aquel producto, sin necesidad de ir en todos los negocios personalmente a compararlos.
+
+#### Registrarse como usuario:
+
+Esto con el fin de aguardar los puntos más buscados del cliente.
+
 
 #### Modo Monetario: 
+
 Opción la cual das a escoger el presupuesto de lo que buscas, 
 un ejemplo:  papelería: presupuesto entre 20-30
  Esto con el fin de tener una mejor opción en la búsqueda.
 
 #### Creación de cuentas: 
+
 Con el fin de tener sus búsquedas y
 puntos relevantes guardados, sin necesidad de buscar de nuevo.
 
@@ -90,26 +106,68 @@ puntos relevantes guardados, sin necesidad de buscar de nuevo.
 disponibilidad para la accesibilidad y disponibilidad de cualquier navegador.
 
 #### Búsqueda por voz: 
+
 la cual facilitara la búsqueda, y optimizara la rapidez, ya que, en vez de escribir, solo tendrías que hablar.
 
 #### Alarma:
+
 una alarma que indica el tiempo de apertura y cierre de la tienda de interés.
+
+#### Encargos:
+
+Esta Funcionalidad permitira que los clientes puedan pedir los productos con el servicio adomicilio, esta funcionalidad funcionara siempre y cuando el local donde esten encargando tenga implementado en su negocioe esa funcionalidad.
+
+#### Registrarse como negocio:
+
+Esta funcionalidad permite que aquellas personas interesadas en dar a conocer su negocio, puedan darse de alta como negocio en esta pagina web, asi incrementando sus ventas.
+
+#### Calificación (complemento del comentario):
+
+Esta funcionalidad permitira a los usuarios calificar a los negocios, siendo esta calificacion visible para los demas usuarios, con un sistema de estrellas, siendo que una estrela es pesima y 5 estrellas viene siendo excelente, esto con tal que los usuarios tengan un amplio criterio al momento de ir a aquel lugar o pedir un encargo, incluyendo que a los negocios les serviraa como retroalimentacion.
+
+#### Subir imagenes (complemento del comentario):
+
+EEsta funcionalidad le permitira al usuario subir fotos en su comentario, con la finalidad de al momento de dejar un comentario y si le ggusto aquel producto, el usuario lo pueda subir en su comentario para que todo el publico pueda verlo.
+
+#### Buzon de quejas:
+
+Esta funcionalidad esta con la finalidad de poder enviar una queja a aquel negocio de interes, es como un comentario, pero con mayor importancia, este no estara a la vistta del publico si no sera un mensaje en privado,, donde el usuario podra dar a conocer su disgusto y su opinion al respecto.
+
+
 
 
 ### Requisitos no funcionales.
 
 
-#### Conexion a bd:
+#### Conexión a Base de datos Comentarios :
 
-con el fin de tener mas control en la parte de puntos de interés del estudiante.
+Con la finalidad de tener un control y almacenamiento de los comentarios y calificaciones que ponen los usuarios a los negocios.
 
-#### Rendimiento:
+#### Conexión a Base de datos Quejas :
 
-La plataforma debe ser capaz de soportar una gran cantidad de usuarios simultáneos sin fallar.
+Con la finalidad de tener un control y almacenamiento de las quejas de los usuarios.
 
-#### Disponibilidad: 
+#### Conexión a Base de datos Negocios:
 
-El sistema debe estar disponible el 99.9% del tiempo.
+Este requisito fundamental esta con el objetivo de almacenar los datos de los negocios, así como los productos que ofrece, dándole así facilidad de control a aquellos negocios que quieran cambiar sus datos.
+
+
+### Conexión a Base de datos a usuarios:
+
+Este requisito esta con el objetivo de almacenar y guardar las cuentas creadas de los usuarios.
+
+### Rendimiento:
+
+La plataforma debe de ser capaz de poder soportar una gran cantidad de usuarios simultáneos sin presentar ninguna falla.
+
+### Optimización:
+
+Mejorar la optimización y disponibilidad para la accesibilidad y disponibilidad de cualquier navegador, incluyendo el dispositivo.
+
+### Disponibilidad:
+
+El sistema debe estar disponible el 99.9% del tiempo (*Optimización y disponibilidad para la accesibilidad y disponibilidad de cualquier navegador*).
+
 
 #### Escalabilidad:
 
@@ -200,3 +258,38 @@ Además de saber sus opiniones y que les gusta o que no les gusta.
 | William enrique Camal Camal | Desarrollo de responsividad  |x| 
 | Ruben Alejandro Sancen Pech | Pruebas |x| 
 | Kevin jesus Canul Coba | Despliegue |x| 
+
+# Descripción de la métrica individual 📝
+Para la métrica las tareas fueron valoradas numéricamente del 1 al 3, 
+siendo 1 el tipo de tarea más sencilla, 2 siendo una tarea que conlleva
+ el doble de esfuerzo de una 1, y 3 siendo una tarea que conlleva el triple 
+ de esfuerzo de una 1; al sumar las valoraciones, el valor de las tareas en conjunto 
+ es de 20 puntos en total, por lo tanto, un punto, equivale un %5 porciento de contribución
+  , y al ser 5 miembros en el equipo, cada integrante del equipo debe realizar
+  las tareas, las tareas fueron repartidas por medio de sus habilidades y experiencias, así que esta balanceado
+  para que los integrantes tengan que realizar las áreas en los que son buenos.
+   En caso de no aportar a las tareas realizadas por todos se descontarían puntos. 
+   Cada integrante debe contar con su respectivo porcentaje de colaboración
+
+| Integrante Responsable| Area |Valor|
+|---|---|---|
+| Kevin jesus Canul Coba | Diseño |1| 
+| Edwin Roberto Cauich Aguilar| Desarrollo del mapa interactivo |3| 
+| Ruben Alejandro Sancen Pech| Desarrollo del Sistema de Registro |2| 
+| Edgar Emir Marín Uc | Desarrollo del panel para negocios registrados |2| 
+| Edwin Roberto Cauich Aguilar | Desarrollo de funcionalidades de busqueda|2| 
+| Edgar Emir Marín Uc | Desarrollo de funcionalidades adicionales |2| 
+| William enrique Camal Camal | Desarrollo del backend |3| 
+| William enrique Camal Camal | Desarrollo de responsividad  |2| 
+| Ruben Alejandro Sancen Pech | Pruebas |2| 
+| Kevin jesus Canul Coba | Despliegue |1| 
+
+# Porcentaje de contribución individual 📝
+
+| Integrante Responsable| Puntaje total |Puntaje obtenido |Porecntaje total|Porcentaje optenido |
+|---|---|---|---|---|
+| Kevin jesus Canul Coba |2 |1|%10|%5|
+| Edwin Roberto Cauich Aguilar|5|0|%25|%0|
+| Ruben Alejandro Sancen Pech|4|0|%20|%0|
+| Edgar Emir Marín Uc |4|0|%20|%0|
+| William enrique Camal Camal | 5|0|%25|%0|
