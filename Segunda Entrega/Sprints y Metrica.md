@@ -5,9 +5,9 @@ Asignación de las áreas que será responsable cada uno de los integrantes del 
 
 ## Asignacion de tareas
 
-| Integrante Responsable| Area |Duracion |
+| Integrante Responsable| Area |Realizado|
 |---|---|---|
-| Kevin jesus Canul Coba | Diseño | | 
+| Kevin jesus Canul Coba | Diseño |x| 
 | Edwin Roberto Cauich Aguilar| Desarrollo del mapa interactivo || 
 | Ruben Alejandro Sancen Pech| Desarrollo del Sistema de Registro | | 
 | Edgar Emir Marín Uc | Desarrollo del panel para negocios registrados | | 
@@ -16,7 +16,7 @@ Asignación de las áreas que será responsable cada uno de los integrantes del 
 | William enrique Camal Camal | Desarrollo del backend | | 
 | William enrique Camal Camal | Desarrollo de responsividad  || 
 | Ruben Alejandro Sancen Pech | Pruebas | | 
-| Kevin jesus Canul Coba | Despliegue |f| 
+| Kevin jesus Canul Coba | Despliegue | | 
 
 ### Tareas de cada Area
 1.	Diseño
