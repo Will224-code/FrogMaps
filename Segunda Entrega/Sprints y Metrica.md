@@ -6,7 +6,6 @@ Asignación de las áreas que será responsable cada uno de los integrantes del 
 ## Asignación de tareas
 
 | Integrante Responsable| Área |Realizado|
-
 |---|---|---|
 | Kevin jesus Canul Coba | Diseño |x| 
 | Edwin Roberto Cauich Aguilar| Desarrollo del mapa interactivo || 
