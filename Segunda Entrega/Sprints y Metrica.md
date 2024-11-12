@@ -1,11 +1,12 @@
-# FrogMaps-Planificacion de sprints
-**Planificacion con el objetivo de tener todo en orden**
+# FrogMaps-Planificación de sprints
+**Planificación con el objetivo de tener todo en orden**
 
 Asignación de las áreas que será responsable cada uno de los integrantes del equipo, con el fin de tener un orden y tener una mejor organización.
 
-## Asignacion de tareas
+## Asignación de tareas
 
-| Integrante Responsable| Area |Realizado|
+| Integrante Responsable| Área |Realizado|
+
 |---|---|---|
 | Kevin jesus Canul Coba | Diseño |x| 
 | Edwin Roberto Cauich Aguilar| Desarrollo del mapa interactivo || 
@@ -18,7 +19,7 @@ Asignación de las áreas que será responsable cada uno de los integrantes del 
 | Ruben Alejandro Sancen Pech | Pruebas | | 
 | Kevin jesus Canul Coba | Despliegue | | 
 
-### Tareas de cada Area
+### Tareas de cada Área
 1.	Diseño
 * Creación de wireframes y mockups
 * Diseño de la interfaz de usuario (UI)
@@ -67,7 +68,7 @@ Asignación de las áreas que será responsable cada uno de los integrantes del 
 
 ## Cronograma de actividades
 
-| Integrante Responsable| Area |Duracion en dias|Duracion en Fechas|
+| Integrante Responsable| Área |Duración en dias| Duración en Fechas|
 |---|---|---|---|
 | Kevin jesus Canul Coba | Diseño|8|29 oct hasta el 5 de nov|
 | Edwin Roberto Cauich Aguilar| Desarrollo del mapa interactivo |15|6 de nov hasta 21 de nov|
@@ -82,4 +83,41 @@ Asignación de las áreas que será responsable cada uno de los integrantes del 
 
 ![Imagen de WhatsApp 2024-11-11 a las 14 10 36_a721f338](https://github.com/user-attachments/assets/bc34326c-a961-4c1a-8f5e-eabfad6c8854)
 
+
+# Descripción de la métrica individual 📝
+Para la métrica las tareas fueron valoradas numéricamente del 1 al 3, 
+siendo 1 el tipo de tarea más sencilla, 2 siendo una tarea que conlleva
+ el doble de esfuerzo de una 1, y 3 siendo una tarea que conlleva el triple 
+ de esfuerzo de una 1; al sumar las valoraciones, el valor de las tareas en conjunto 
+ es de 20 puntos en total, por lo tanto, un punto, equivale un %5 porciento de contribución
+  , y al ser 5 miembros en el equipo, cada integrante del equipo debe realizar
+  las tareas, las tareas fueron repartidas por medio de sus habilidades y experiencias, así que esta balanceado
+  para que los integrantes tengan que realizar las áreas en los que son buenos.
+   En caso de no aportar a las tareas realizadas por todos se descontarían puntos. 
+   Cada integrante debe contar con su respectivo porcentaje de colaboración
+
+
+
+| Integrante Responsable| Area |Valor|
+|---|---|---|
+| Kevin jesus Canul Coba | Diseño |1| 
+| Edwin Roberto Cauich Aguilar| Desarrollo del mapa interactivo |3| 
+| Ruben Alejandro Sancen Pech| Desarrollo del Sistema de Registro |2| 
+| Edgar Emir Marín Uc | Desarrollo del panel para negocios registrados |2| 
+| Edwin Roberto Cauich Aguilar | Desarrollo de funcionalidades de busqueda|2| 
+| Edgar Emir Marín Uc | Desarrollo de funcionalidades adicionales |2| 
+| William enrique Camal Camal | Desarrollo del backend |3| 
+| William enrique Camal Camal | Desarrollo de responsividad  |2| 
+| Ruben Alejandro Sancen Pech | Pruebas |2| 
+| Kevin jesus Canul Coba | Despliegue |1| 
+
+# Porcentaje de contribución individual 📝
+
+| Integrante Responsable| Puntaje total |Puntaje obtenido |Porecntaje total|Porcentaje optenido |
+|---|---|---|---|---|
+| Kevin jesus Canul Coba |2 |1|%10|%5|
+| Edwin Roberto Cauich Aguilar|5|0|%25|%0|
+| Ruben Alejandro Sancen Pech|4|0|%20|%0|
+| Edgar Emir Marín Uc |4|0|%20|%0|
+| William enrique Camal Camal | 5|0|%25|%0|
 
