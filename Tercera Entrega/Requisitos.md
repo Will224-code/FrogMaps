@@ -4,7 +4,7 @@
 Este último mes, se estuvo analizando detenidamente todos los requisitos, y podimos determinar que ya nos faltava uno para que todos los requisitos esten completos, en esta última entrega, se dara a conocer lo último de los requisitos funcionales y no funcionales. 
 
 
-### *Requisitos de la tercera entrega: * 
+### *Requisitos de la tercera entrega:* 
 
 
 ## Requisitos Funcionales 
