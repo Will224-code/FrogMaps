@@ -10,7 +10,7 @@ Estos cambios se realizaron con el fin de terminar con estas areas, para poder a
 
 Uno de los cambios importantes que tomamos encueta, fue sobre el tipo de artefacto a usar, en este caso utilizamos la plataforma Forms para poder realizar las encuestas de comunidad y uso, y de esta forma poder realizar cambios e implementar o eliminar algunas funciones. 
  
-Uno de los pequeños cambios, es la mejora del mapa, ahora será dinámico (como Google maps), esto con el fin de darle más libertad de búsqueda al usuario, además que, gracias al mapa, se puede unir con la funcionalidad de ruta cercana, haciendo que sea más fácil el mano de esta aplicación. 
+Uno de los pequeños cambios, es la mejora del mapa, ahora será dinámico (como Google maps), esto con el fin de darle más libertad de búsqueda al usuario, además que, gracias al mapa, se puede unir con la funcionalidad de ruta cercana, haciendo que sea más fácil el manejo de esta aplicación. 
 
 
 Pero no solo es eso, también se tuvieron que agregar requisitos No Funcionales para que la funcion este en las mejores condiciones. 
