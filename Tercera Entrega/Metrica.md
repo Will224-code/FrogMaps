@@ -59,6 +59,10 @@ Esta decisión se tomó con todos los integrantes del equipo, ya que se analizó
 | Kevin jesus Canul Coba | Despliegue |4|26 de ene hasta 30 de Enero|
 
 
+
+![imagen](https://github.com/user-attachments/assets/42343f54-84b3-4370-addc-02acfb280d18)
+
+
 # Descripción de la métrica individual 📝
 Para la métrica las tareas fueron valoradas numéricamente del 1 al 3, 
 siendo 1 el tipo de tarea más sencilla, 2 siendo una tarea que conlleva
