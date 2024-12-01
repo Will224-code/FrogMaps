@@ -1,4 +1,5 @@
-## Lecciones aprendidas
+# Competencias
+
 
 Durante el curso de Fundamentos de Ingeniería de Software hemos aprendido mucho sobre la colaboración grupal, la gestión de los recursos y la organización.
 
