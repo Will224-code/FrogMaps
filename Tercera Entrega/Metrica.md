@@ -57,6 +57,7 @@ Esta decisión se tomó con todos los integrantes del equipo, ya que se analizó
 | William enrique Camal Camal | Desarrollo de responsividad  |22|1 de ene hasta 22 de ene|
 | Ruben Alejandro Sancen Pech | Pruebas |4|22 de ene hasta 26 de ene|
 | Kevin jesus Canul Coba | Despliegue |4|26 de ene hasta 30 de Enero|
+![imagen](https://github.com/user-attachments/assets/42343f54-84b3-4370-addc-02acfb280d18)
 
 
 # Descripción de la métrica individual 📝
