@@ -10,7 +10,7 @@
 
 Se creo un escenario donde los usuarios deben utilizar distintas páginas de compra y venta de productos. 
 
-Además de contar sus anécdotas sobre aquellas páginas, sus disgustos y que les gustaría que hicieran aquellas páginas. 
+COn el fin de contar sus anécdotas sobre aquellas páginas, sus disgustos y que les gustaría que hicieran aquellas páginas. 
 
  
 
