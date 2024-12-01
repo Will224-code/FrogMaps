@@ -1,6 +1,7 @@
 # Bosquejos
 
-Bosquejo sobre como estará implementado la página web FrogMaps, La cual contará con 6 interfaces, hasta al momento.
+Bosquejo sobre como estará implementado la página web FrogMaps, La cual contará con 6 interfaces.
+Se realizo una reunión con tal de que mejorar a los diseños de las interfaces, y nos percatamos que cumplen con todas las especificaciones, por lo que decidimos que no tendrá ningún cambio en el diseño. 
 
 ## Registrarse
 Esta interfaz es cuando ya tengas echo una cuenta y quieras entrar en otro dispositivo o navegador.
